@@ -1,0 +1,141 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  /*background-image: url(https://th.bing.com/th/id/R.f4de21f2f3025e3bdb0a2014d311950d?rik=kzpwXLjpB0%2feaQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f3wPVPxQ.jpg&ehk=zbIi2mYzstcxq6bY0zZvvQ%2fzl5myk79SQXjW67MY3v0%3d&risl=&pid=ImgRaw&r=0);
+  background-attachment: fixed;*/
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 50px;
+
+  background-image: url(https://th.bing.com/th/id/R.824e6e9183b679f52b781f55ca018f39?rik=v8S1jj%2bOnHv9XA&pid=ImgRaw&r=0);*
+}
+#head {
+  background-image: url(https://th.bing.com/th/id/R.824e6e9183b679f52b781f55ca018f39?rik=v8S1jj%2bOnHv9XA&pid=ImgRaw&r=0);
+}
+#heading {
+  font-size: 80px;
+  font-weight: 400px;
+  font-family:'Courier New', Courier, monospace;
+}
+#list {
+  font-size: 25px;
+  font-weight: 300;
+  background-image: url(https://th.bing.com/th/id/R.824e6e9183b679f52b781f55ca018f39?rik=v8S1jj%2bOnHv9XA&pid=ImgRaw&r=0);
+}
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+nav {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #f2f2f2;
+  background-color: #333;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+main section {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 10px #ccc;
+}
+
+main h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+
+.events1 {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300px;
+    
+
+}
+
+#events {
+      background-image: url(https://i.pinimg.com/originals/c4/4c/65/c44c65bf318557e31158b30a0b8a38d4.jpg);
+  
+}
+
+#revents {
+  color: lavenderblush;
+}
+
+.events1 {
+  color: lavenderblush;
+
+}
+#about {
+    font-size: 30px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Merriweather', serif;
+    font-weight: 200px;
+    background-image: url(https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80);
+    color: white;
+    
+    background-size: auto;
+
+}
+
+#about1 {
+  font-size: 45px;
+  font-weight: 400;
+  color:#f4eeee ;
+}
+
+#recruitment {
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300px;
+  background-image: url(https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/The%20Simple%20Truth%20About%20Recruitment%20And%20Selection%20.png?width=1600&name=The%20Simple%20Truth%20About%20Recruitment%20And%20Selection%20.png);
+
+}
+
+#contact {
+  background-color: none;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300px;
+  background-image: url(https://static.wixstatic.com/media/411520_87707c79a89f461e9cb370acfa9b1304~mv2.jpg/v1/fill/w_1456,h_678,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/411520_87707c79a89f461e9cb370acfa9b1304~mv2.jpg);
+  color: black;
+  background-attachment:scroll;
+  background-image: -moz-element();
+
+}
